@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "date": "12:00",
+    "name": "Brno",
+    "description": "Brno - 2nd biggest city in Czech Republic, Coordinates: 49.19500, 16.60825",
+    "mapZoom": 7,
+    "center": [16.6068, 49.1951]
+  },
+  {
+    "id": 2,
+    "date": "12:05",
+    "name": "Prague",
+    "description": "Prague - the capital and biggest city in Czech Republic, Coordinates: 50.08753, 14.42125",
+    "mapZoom": 7,
+    "center": [14.4378, 50.0755]
+  },
+  {
+    "id": 3,
+    "date": "12:10",
+    "name": "Dresden",
+    "description": "Dresden is a capital of eastern-Germany land 'Saksonia', Coordinates: 51.05135, 13.73268",
+    "mapZoom": 7,
+    "center": [13.7373, 51.0504]
+  },
+  {
+    "id": 4,
+    "date": "12:15",
+    "name": "Berlin",
+    "description": "Berlin. Capital of Germany, largest city by both area and population, Coordinates: 52.51941, 13.40646",
+    "mapZoom": 7,
+    "center": [13.405, 52.52]
+  },
+  {
+    "id": 5,
+    "date": "12:20",
+    "name": "Hamburg",
+    "description": "Hamburg - big port city at the north lands of Germany, Coordinates: 53.54692, 9.97870",
+    "mapZoom": 7,
+    "center": [9.9937, 53.55111]
+  }
+]
