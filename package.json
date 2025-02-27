@@ -2,10 +2,13 @@
   "name": "lppsoft_react",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://IgYel.github.io/LPPsoft_ReactApp/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --mode development",
-    "build": "webpack"
+    "build": "webpack",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +27,7 @@
     "babel-loader": "^10.0.0",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^7.1.2",
+    "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^5.6.3",
     "sass": "^1.85.1",
     "sass-loader": "^16.0.5",
