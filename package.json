@@ -2,7 +2,7 @@
   "name": "lppsoft_react",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://igyel.github.io/LPPsoft_ReactApp/",
+  "homepage": "https://IgYel.github.io/LPPsoft_ReactApp",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --mode development",
